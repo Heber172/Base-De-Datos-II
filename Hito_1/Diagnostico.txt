@@ -1,0 +1,11 @@
+Que es una base de datos realacional:
+Es una base de datos que alamacena la infotmacion en fulas y columnas.
+
+
+Que es DML:
+Data Manipulation Language
+CREATE, ALTER, DROP 
+
+Que es DDL: 
+Data Definition Language
+SELECT, UPDATE, DELETE
