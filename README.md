@@ -53,8 +53,11 @@
 *Laboratorios Hito 3*
 
 <A href="https://github.com/Heber172/Base-De-Datos-II/tree/main/Hito3/Laboratorios/Lab_1"> Laboratorio 1 </A>
+
 <A href="https://github.com/Heber172/Base-De-Datos-II/tree/main/Hito3/Laboratorios/Lab_2"> Laboratorio 2 </A>
+
 <A href="https://github.com/Heber172/Base-De-Datos-II/tree/main/Hito3/Laboratorios/Lab_3"> Laboratorio 3 </A>
+
 <A href="https://github.com/Heber172/Base-De-Datos-II/tree/main/Hito3/Laboratorios/Lab_4"> Laboratorio 4 </A>
 
 *Evaluacion Procesual Hito 3*
@@ -72,9 +75,13 @@
 
 
 **CONTENIDO**
+
 *Laboratorios Hito 4*
+
 <A href="https://github.com/Heber172/Base-De-Datos-II/tree/main/Hito%204/Laboratorios/Lab_1"> Laboratorio 1 </A>
+
 <A href="https://github.com/Heber172/Base-De-Datos-II/tree/main/Hito%204/Laboratorios/Lab_2"> Laboratorio 2 </A>
+
 <A href="https://github.com/Heber172/Base-De-Datos-II/tree/main/Hito%204/Laboratorios/Lab_3"> Laboratorio 3 </A>
 
 *Evaluacion Procesual Hito 4*
