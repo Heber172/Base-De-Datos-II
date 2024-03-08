@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de envio 01</title>
+</head>
+<body>
+    <form action="./php/procesar.php">
+        <fieldset>
+            <legend>Informacion personal:</legend>
+            Nombre: <br>
+            <input type="text" name="nombre" placeholder="Ingrese su nombre" required>
+    
+            <br> apellido: <br>
+            <input type="text" name="apellido" placeholder="Ingrese su apellido" required>
+            <br>
+            Email: <br>
+            <input type="email" name="mail">
+            <br>Clave: <br>
+            <input type="password" name="clave" placeholder="Ingrese su clave"  required>
+            <br>Seleccine sus sistema operativo
+            <select name="os">
+                <option value="Linux">Linux</option>
+                <option value="Windows">Windows</option>
+                <option value="Android">Android</option>
+            </select> <br>
+            <input type="radio" name="genero" value="Masculino" checked> Masculino <br>
+            <input type="radio" name="genero" value="Femenino" > Femenino <br>
+            <textarea name="observaciones" cols="30" rows="10">Este control puede tener multiples lineas</textarea> <br>
+            <input type="button" value="Precione" onclick="alert('Hola programador')"> <br>
+            <input type="range" name="rango" value="30"><br>
+            <input type="number" name="numero" value="100"> <br>
+            <input type="checkbox" name="vehiculo1" value="bicicleta" checked> Tengo una bici <br>
+            <input type="checkbox" name="vehiculo2" value="moto"> Tengo un moto <br>
+            <input type="checkbox" name="vehiculo3" value="auto"> Tengo un auto<br>
+            Seleccione un color <br>
+            <input type="color" name="color"><br>
+            Seleccione sus fecha de nacimiento <br>
+            <input type="date" name="fechan"><br>
+            Seleccione un archivo <br>
+            <input type="file" name="cv"><br><br> 
+            Ingrese sus telefono <br>
+            <input type="tel" name="telefono">
+
+            <input type="submit" value="Enviar datos" >
+            <input type="reset" name="Limpiar todo" ><br>
+        </fieldset>
+    
+    </form>
+</body>
+</html>
